@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://github.com/kev065/python-p3-migrations-and-alembic/blob/main/lib/migrations_test.db
+HostUrl=https://raw.githubusercontent.com/kev065/python-p3-migrations-and-alembic/main/lib/migrations_test.db
